@@ -58,8 +58,8 @@ I'm an avid learner and right now, I'm focused on learning more about **Cloud En
 
 - 🐞 Triaged over 2,000 issues in the [Flutter repository](https://github.com/flutter/flutter/issues)
 - 🧵 Actively contributing to GitHub discussions & Flutter communities to unblock developers
-- 👯 I'm a big fan of community and I'm always looking forward to contributing and collaborating
-- 💆‍♀️ When life gets stressful, I like to bake which is hilarious and ironic because baking is basically organized chaos.
+- 👯 I'm a big fan of community, and I'm always looking forward to contributing and collaborating
+- 💆‍♀️ When life gets stressful, I like to bake, which is hilarious and ironic because baking is basically organised chaos.
 
 ---
 
