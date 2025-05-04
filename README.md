@@ -44,6 +44,7 @@ I'm an avid learner and right now, I'm focused on learning more about **Cloud En
 
 - *[GitHub Community UI IWD 2025 - Navigating the Mobile Development Ecosystem as a Woman in Tech](https://www.canva.com/design/DAGDL3jyxto/M0rA0j8gkAV71-aQMpxnrg/edit?utm_content=DAGDL3jyxto&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
 - *[FlutterCon Kenya 2024 - Essential Pre-Launch Steps for Flutter Applications](https://docs.google.com/presentation/d/19z3AwO-iKgJqLedkIXHyWDEWhzkC0TLAaHXowBAZAyo)*
+- *[SEDF International Day of the Girl Child 2024 - Girls’ Vision for the Future](https://www.canva.com/design/DAGmf53UJVs/llMW5lZ9LI00ew-YMP88Qw/edit?utm_content=DAGmf53UJVs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
 - *[Flutterbytes Conference 2023 - Discovering your Impact: A Beginner's Guide to Flutter Repository Contribution](https://docs.google.com/presentation/d/1_aT4-oTYwqendM6evVQJyWCUHM0mDRbm)*
 - *[WTM Ibadan IWD 2023 - Dare to be Innovative: Exploring Emerging Technologies in Tech](https://docs.google.com/presentation/d/11zd7ji-OgdY1uNKDIpYfW2Kab8ryd6BivaBlaGf2nb0)*
 - *[Technical Presentation - From Idea to App Store](https://www.canva.com/design/DAFhSV349LI/x6IgvoXysJm_kb81c976Zw/edit?utm_content=DAFhSV349LI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)*
