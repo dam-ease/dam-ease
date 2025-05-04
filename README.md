@@ -2,7 +2,7 @@
 
 ### 😊 Welcome to my GitHub profile!
 
-I am Damilola Alimi, a **Software Engineer** and I currently help developers and development teams ship their mobile applications faster and more reliably through automated CI/CD infrastructure with [Codemagic](codemagic.io). I thrive on solving technical challenges and making developer experiences easy, one build at a time.
+I am Damilola Alimi, a **Software Engineer**, and I currently help developers and development teams with shipping their mobile applications faster and more reliably through automated CI/CD infrastructure with [Codemagic](codemagic.io). I thrive on solving technical challenges and making developer experiences easy, one build at a time.
 
 ---
 
@@ -16,10 +16,10 @@ I am Damilola Alimi, a **Software Engineer** and I currently help developers and
 ---
 
 ### 🔭 What I'm Currently Working On
-I’m currently focused on helping developers use [Codemagic](codemagic.io) – the most efficient way to automate mobile CI/CD, specifically designed for Flutter and native mobile apps.
+I’m currently focused on helping developers use [Codemagic](codemagic.io) - the fastest and most efficient way to automate and boost your mobile CI/CD, with continuous integration and delivery and easily customizable workflows.
 - 🔧 Effortless CI/CD – Automate build, test, and release pipelines.
 - 🌍 Integrated with your workflow – Seamlessly integrates with GitHub, Bitbucket, and more.
-- ⚡ Optimized for mobile development teams – Tailored specifically for Flutter and native mobile apps.
+- ⚡ Optimised for mobile development teams – Tailored specifically for Flutter and native mobile apps.
 
 Codemagic simplifies the process, so developers can focus on building amazing apps. Try it now 👉 [codemagic.io](codemagic.io)
 
