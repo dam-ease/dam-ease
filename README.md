@@ -2,7 +2,7 @@
 
 ### 😊 Welcome to my GitHub profile!
 
-I am Damilola Alimi, a **Software Engineer**, and I currently help developers and development teams with shipping their mobile applications faster and more reliably through automated CI/CD infrastructure with [Codemagic](https://codemagic.io/). I thrive on solving technical challenges and making developer experiences easy, one build at a time.
+I am a **Software Engineer**, and I currently help developers and development teams with shipping their mobile applications faster and more reliably through automated CI/CD infrastructure with [Codemagic](https://codemagic.io/). I thrive on solving technical challenges and making developer experiences easy, one build at a time.
 
 ---
 
